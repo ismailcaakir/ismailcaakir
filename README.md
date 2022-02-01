@@ -11,7 +11,9 @@ The organization where I publish my open source projects [@kodhub](https://githu
  - I'm thinking... 👨‍💻
 
 
-<hr>
+<details>
+<summary>More...</summary>
+
   
 <img src="https://github-readme-stats.vercel.app/api?username=ismailcaakir&theme=synthwave&include_all_commits=true">   
 <img src="https://github-readme-streak-stats.herokuapp.com?user=ismailcaakir&theme=synthwave&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&locale=tr">  
@@ -19,3 +21,4 @@ The organization where I publish my open source projects [@kodhub](https://githu
 
 
 <img src="https://komarev.com/ghpvc/?username=ismailcaakir&color=F98B00"> <img src="https://img.shields.io/github/followers/ismailcaakir?style=flat-square&color=F98B00">
+</details>
