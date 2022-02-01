@@ -2,7 +2,7 @@
 A passionate backend developer from Turkey  
   
 ```php  
-// Magento 🔥🔥🔥🔥🔥// Laravel 🔥🔥🔥🔥🔥// Flutter 🔥🔥🔥  
+// Magento 🔥🔥🔥🔥🔥 // Laravel 🔥🔥🔥🔥🔥 // Flutter 🔥🔥🔥  
 ```  
 
 The organization where I publish my open source projects [@kodhub](https://github.com/kodhub)
