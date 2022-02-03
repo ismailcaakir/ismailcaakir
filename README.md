@@ -11,9 +11,9 @@ The organization where I publish my open source projects [@kodhub](https://githu
  - I'm thinking... 👨‍💻
 
 
-
+<div align="center">
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismailcaakir&theme=ismailcaakir&layout=compact" /> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ismailcaakir&show_icons=true&theme=ismailcaakir" />
   
 
-
 <img src="https://komarev.com/ghpvc/?username=ismailcaakir&color=F98B00"> <img src="https://img.shields.io/github/followers/ismailcaakir?style=flat-square&color=F98B00">
+</div>
